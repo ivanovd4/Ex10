@@ -1,4 +1,4 @@
-// Copyright 2020 GHA Test Team
+// Copyright 2021 ivanovd4
 #include <gtest/gtest.h>
 #include <string>
 #include "postfix.h"
