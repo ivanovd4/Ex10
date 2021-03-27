@@ -1,4 +1,4 @@
-// Copyright 2021 ivanovd4
+// Copyright 2021 ivanovd4 
 #include <gtest/gtest.h>
 #include <string>
 #include "postfix.h"
